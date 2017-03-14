@@ -21,6 +21,9 @@
   <ItemGroup>
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Vision.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{8EE66804-A1A8-41FF-89C4-B247B30E72F7}</ProjectGuid>
     <RootNamespace>CHASMANIFOLD</RootNamespace>
